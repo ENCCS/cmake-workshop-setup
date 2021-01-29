@@ -38,24 +38,22 @@ MacOS and Linux users can simply open a terminal and install
 #### Creating an environment and installing packages
 
 Once you have `conda` installed (and WSL if you're on Windows) you can use the 
-[environment.yml](environment.yml) file in this repository to install the dependences.
-But first create an isolated `conda` environment with:
+[environment.yml](environment.yml) file in this repository to install the dependencies.
+First save the [environment.yml](environment.yml) file in this repository to your 
+computer, and then type:
 
 ```bash
-conda create --name cmake-workshop
+conda env create -f environment.yml
 ```
 
-and activate it by:
+You then need to activate it by:
 
 ```bash
 conda activate cmake-workshop
 ```
 
-Then install the dependencies:
+Now you should have CMake, compilers, Python and a few other packages installed!
 
-```bash
-WRITEME
-```
 
 ### Using https://mybinder.org/
 
