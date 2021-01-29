@@ -66,3 +66,5 @@ terminal.
 
 ### Using SNIC Cloud
 
+We will also be piloting a [SNIC Cloud](https://cloud.snic.se/) instance for this workshop. Further 
+information will be provided later.
