@@ -55,6 +55,13 @@ conda activate cmake-workshop
 Now you should have CMake, compilers, Python and a few other packages installed!
 
 
-### Using https://mybinder.org/
+### Using [Binder](https://mybinder.org/)
+
+Binder (https://mybinder.org/) offers a free customizable cloud computing environment. You can do
+the CMake workshop exercises in the cloud by clicking the "launch binder" button at the top of this README file. 
+After a few minutes you will see a Jupyter Notebook dashboard which is running in the cloud. To open up a terminal, 
+click "New" on the right and select Terminal. You can open a text editor (for code, CMake files etc) by clicking "New" 
+and select Text File. If you prefer a terminal editor, you can install e.g. `nano` by typing `conda install nano` in the 
+terminal.
 
 ### Using SNIC Cloud
