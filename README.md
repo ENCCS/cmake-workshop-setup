@@ -7,9 +7,9 @@
 This document provides the following information for 
 participants of ENCCS CMake workshops:
 
-1. How to install CMake, compilers and Python on your own machine
-2. How to use https://mybinder.org/ for the workshop
-3. How to use [SNIC Cloud](https://cloud.snic.se/) for the workshop
+1. [How to install CMake, compilers and Python on your own machine](#Installing-CMake)
+2. [How to use https://mybinder.org/ for the workshop](#Using-Binder)
+3. [How to use [SNIC Cloud](https://cloud.snic.se/) for the workshop](#Using-SNIC-Cloud)
 
 ### Installing CMake
 
@@ -55,7 +55,7 @@ conda activate cmake-workshop
 Now you should have CMake, compilers, Python and a few other packages installed!
 
 
-### Using [Binder](https://mybinder.org/)
+### Using Binder
 
 Binder (https://mybinder.org/) offers a free customizable cloud computing environment. You can do
 the CMake workshop exercises in the cloud by clicking the "launch binder" button at the top of this README file. 
