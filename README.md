@@ -1,4 +1,8 @@
-# Practical information for ENCCS CMake workshops
+# cmake-workshop-setup
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ENCCS/cmake-workshop-setup/HEAD)
+
+## Practical information for ENCCS CMake workshops
 
 This document provides the following information for 
 participants of ENCCS CMake workshops:
@@ -7,7 +11,7 @@ participants of ENCCS CMake workshops:
 2. How to use https://mybinder.org/ for the workshop
 3. How to use [SNIC Cloud](https://cloud.snic.se/) for the workshop
 
-## Installing CMake
+### Installing CMake
 
 If you want to install the required dependencies for this workshop on 
 your own computer, we recommend that you use the 
@@ -53,6 +57,6 @@ Then install the dependencies:
 WRITEME
 ```
 
-## Using https://mybinder.org/
+### Using https://mybinder.org/
 
-## Using SNIC Cloud
+### Using SNIC Cloud
