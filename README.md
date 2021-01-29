@@ -9,7 +9,7 @@ participants of ENCCS CMake workshops:
 
 1. [How to install CMake, compilers and Python on your own machine](#Installing-CMake)
 2. [How to use https://mybinder.org/ for the workshop](#Using-Binder)
-3. [How to use [SNIC Cloud](https://cloud.snic.se/) for the workshop](#Using-SNIC-Cloud)
+3. [How to use SNIC Cloud for the workshop](#Using-SNIC-Cloud)
 
 ### Installing CMake
 
@@ -65,3 +65,4 @@ and select Text File. If you prefer a terminal editor, you can install e.g. `nan
 terminal.
 
 ### Using SNIC Cloud
+
