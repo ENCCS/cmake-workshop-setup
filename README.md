@@ -14,7 +14,7 @@ your own computer, we recommend that you use the
 [conda package and environment manager](https://docs.conda.io/en/latest/).
 The dependencies can also be installed by other means but `conda` provides 
 a simple mechanism to install packages into isolated software environments 
-that don't interfer with other software running on your machine.
+that don't interfere with other software running on your machine.
 
 #### For Windows users
 
