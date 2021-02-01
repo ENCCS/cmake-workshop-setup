@@ -1,3 +1,5 @@
+# Retired - installation instructions now under https://github.com/ENCCS/cmake-workshop
+
 # cmake-workshop-setup
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ENCCS/cmake-workshop-setup/HEAD)
